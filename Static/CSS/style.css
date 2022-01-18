@@ -393,3 +393,7 @@ footer .column i + i {
   z-index: 9999;
   transition: all 1.5s ease;
 }
+
+.fab {
+    padding-left: 10px;
+}
